@@ -10,11 +10,11 @@ const Home = () => {
         </div>
         <nav>
           <ul className="nav-links">
-            <li><a href="/">Home</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/resume">Resume</a></li>
-            <li><a href="/works">Work</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li><a href="/portfolio/#/">Home</a></li>
+            <li><a href="/portfolio/#/services">Services</a></li>
+            <li><a href="/portfolio/#/resume">Resume</a></li>
+            <li><a href="/portfolio/#/works">Work</a></li>
+            <li><a href="/portfolio/#/contact">Contact</a></li>
           </ul>
           {/*<a href="#" className="hire-me-btn">Hire me</a>*/}
         </nav>
@@ -31,17 +31,17 @@ const Home = () => {
         </p>
 
           <div className="btn-social-container">
-            <a href="public/cv-mounir-hsairi.pdf" className="btn">Download CV</a>
+            <a href="cv-mounir-hsairi.pdf" className="btn">Download CV</a>
             <div className="social-icons">
-              <a href="https://www.linkedin.com/in/mounir-hsairi-a3b18a221/"><img src="public/images/linkedin.png" alt="LinkedIn Profile" /></a>
-              <a href="https://github.com/mounirhsairi"><img src="public/images/github.png" alt="GitHub Profile" /></a>
+              <a href="https://www.linkedin.com/in/mounir-hsairi-a3b18a221/"><img src="images/linkedin.png" alt="LinkedIn Profile" /></a>
+              <a href="https://github.com/mounirhsairi"><img src="images/github.png" alt="GitHub Profile" /></a>
             </div>
           </div>
         </div>
         <div className="intro-image">
           <div className="profile-container">
             <img
-              src="public/images/profil.png"
+              src="images/profil.png"
               alt="Profile Picture"
               className="profile-image"
             />

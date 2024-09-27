@@ -44,13 +44,13 @@ const Contact = () => {
             <header>
                 <div className="logo">Mounir<span>.</span></div>
                 <nav>
-                    <ul className="nav-links">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/services">Services</a></li>
-                        <li><a href="/resume">Resume</a></li>
-                        <li><a href="/works">Work</a></li>
-                        <li><a href="/contact">Contact</a></li>
-                    </ul>
+                <ul className="nav-links">
+                    <li><a href="/portfolio/#/">Home</a></li>
+                    <li><a href="/portfolio/#/services">Services</a></li>
+                    <li><a href="/portfolio/#/resume">Resume</a></li>
+                    <li><a href="/portfolio/#/works">Work</a></li>
+                    <li><a href="/portfolio/#/contact">Contact</a></li>
+                </ul>
                 </nav>
             </header>
 
