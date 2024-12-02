@@ -31,6 +31,20 @@ const projects = [
         technologies: "React Native, Expo, Firebase",
         image: "images/image.png",
     },
+    {
+      id: 5,
+      title: "E-commerce Site for Clothing",
+      description: "Development of a modern e-commerce website for clothing using WordPress, WooCommerce, and Elementor. This platform allows for seamless product management, secure payment processing, and customization of the storefront. Designed with an intuitive interface, it provides an engaging shopping experience for customers while ensuring easy management for business owners. The website is fully responsive, ensuring optimal performance across devices.",
+      technologies: "WordPress, WooCommerce, Elementor",
+      image: "images/eecomerce.png",
+  },
+  {
+    id: 6,
+    title: "Showcase Website for an Import-Export Company",
+    description: "Design and development of a modern and professional showcase website for an import-export company using HTML, CSS, JavaScript, and PHP. The website highlights the company's services, expertise, and product portfolio with a clean and intuitive layout. It includes contact forms for inquiries and is optimized for fast loading and responsiveness, ensuring a seamless user experience on all devices.",
+    technologies: "HTML, CSS, JavaScript, PHP",
+    image: "images/vitrine.png",
+},
 ];
 
       
